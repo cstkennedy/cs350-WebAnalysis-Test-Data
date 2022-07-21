@@ -1,7 +1,7 @@
 # CS Landing Page
 
 `cs-landing-page` is a copy of my Summer 2022 landing page. The corresponding
-URL is <https://www.cs.odu.edu/~tkennedy/summer2022>
+URL is <https://www.cs.odu.edu/~tkennedy/summer22>
 
 
 # CS 417 - One Lecture
